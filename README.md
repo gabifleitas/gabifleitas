@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ### 📂 My Projects
 
 Here are some of the projects I'm working on. Click to explore:
@@ -65,9 +66,9 @@ Here are some of the projects I'm working on. Click to explore:
 - 📈 **[Excel](https://github.com/gabifleitas/excel-portfolio)**  
 - 🧮 **[SQL](https://github.com/gabifleitas/sql-portfolio)**  
 
-
+--> 
 
 ---
 
-<p align="center">Last updated: 📅 May 2025</p>
+<p align="center">Last updated: 📅 June 2025</p>
 <p align="center">Thanks for stopping by! 🌟</p>
