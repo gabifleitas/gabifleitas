@@ -1,31 +1,9 @@
-## Hi there 👋
-
-
-<!--
-**gabifleitas/gabifleitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi 👋, I'm <a href="https://gabifleitas15.wixsite.com/maria-gabriela-fleit/welcome" target="_blank">Gabi</a></h1>
 <h3 align="center">A passionate Polyglot Data Analyst from Paraguay 🇵🇾 | Working Remotely Worldwide 🌍</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabifleitas15&label=Profile%20views&color=0e75b6&style=flat" alt="gabifleitas15" />
 </p>
-
-<!--<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNqbmliY21sY3dyMDRhcjk0dXF4NXN1bGR5YWY4eHowbXdhYXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TuxaRQxMoyeY1G5tN/giphy.gif" alt="data gif" width="400" />
-</p> -->
 
 ---
 
@@ -56,19 +34,29 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
 ### 📂 My Projects
 
-Here are some of the projects I'm working on. Click to explore:
+- 🧮 **[f1_sql](https://github.com/gabifleitas/f1_sql)**  
+  Comprehensive SQL-based analysis of historical Formula 1 data for Liberty Media Corporation.  
+  Focused on translating business questions into queries and generating management-level insights.  
+  _Tools: SQL, MySQL, Data Modeling_
 
-- 📊 **[Power BI](https://github.com/gabifleitas/power_bi-portfolio)**  
-- 🐍 **[Python](https://github.com/gabifleitas/python-portfolio)**  
-- 📈 **[Excel](https://github.com/gabifleitas/excel-portfolio)**  
-- 🧮 **[SQL](https://github.com/gabifleitas/sql-portfolio)**  
+- 🎮 **[gaming_insights](https://github.com/gabifleitas/gaming_insights)**  
+  Analysis of video game sales to identify success factors across platforms, genres, and regions.  
+  Developed to support marketing strategies and title selection.  
+  _Tools: Python, Pandas, Plotly, Matplotlib_
 
---> 
+- 📊 **[servitech](https://github.com/gabifleitas/servitech-)**  
+  Power BI dashboard analyzing service tickets from a fictional tech company.  
+  Focused on identifying trends, operational efficiency, and strategic opportunities.  
+  _Tools: Power BI, Excel, DAX, Data Visualization_
 
 ---
 
-<p align="center">Last updated: 📅 June 2025</p>
+<p align="center">Thanks for visiting! 🌟</p>
+
+
+---
+
+<p align="center">Last updated: 📅 July 2025</p>
 <p align="center">Thanks for stopping by! 🌟</p>
