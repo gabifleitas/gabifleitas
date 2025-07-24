@@ -34,7 +34,7 @@
 
 ---
 
-### 📂 My Projects
+### 📂 Some of my Projects
 
 - 🧮 **[f1_sql](https://github.com/gabifleitas/f1_sql)**  
   Comprehensive SQL-based analysis of historical Formula 1 data for Liberty Media Corporation.  
