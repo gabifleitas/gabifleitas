@@ -23,9 +23,9 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=gabifleitas15&label=Profile%20views&color=0e75b6&style=flat" alt="gabifleitas15" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNqbmliY21sY3dyMDRhcjk0dXF4NXN1bGR5YWY4eHowbXdhYXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9TuxaRQxMoyeY1G5tN/giphy.gif" alt="data gif" width="400" />
-</p>
+</p> -->
 
 ---
 
