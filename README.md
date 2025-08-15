@@ -10,7 +10,7 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on data projects related to **business, visualization, and science**
-- 🌱 I'm learning **Python**, improving my skills in **Power BI**, **SQL**, and **Excel**
+- 🌱 I'm learning **Python**, improving my skills in **Power BI**, **Tableau**, **SQL**, and **Excel**
 - 🤝 I'm open to **collaborations with companies and freelance opportunities**
 - 🧠 I love learning new languages and exploring data across cultures
 - 📫 How to reach me: **[gabibusiness24@gmail.com](mailto:gabibusiness24@gmail.com)**
